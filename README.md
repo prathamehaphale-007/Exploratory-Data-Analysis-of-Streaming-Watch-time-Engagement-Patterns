@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-of-Streaming-Watch-time-Engagement-Patterns
+An Exploratory Data Analysis (EDA) of 5,000 streaming records to analyze user engagement. This project explores watch_time_minutes and completion_rate across 6 platforms, 19 genres, and 15 locations. Key findings reveal a remarkably balanced ecosystem with high, sustained engagement, providing granular insights for content strategy.
